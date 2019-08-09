@@ -55,7 +55,7 @@ h6 {
 p {
     font-size: 0.9em;
     color: #fff;
-    line-height: 1.9em;
+    line-height: 1.4em;
     letter-spacing: 1px;
     margin-bottom: 0;
 }
@@ -85,7 +85,7 @@ ol {
 }
 
 .banner-info {
-    padding-top: 5em;
+    padding-top: 2em;
 }
 
 .w3pvt-logo a {
