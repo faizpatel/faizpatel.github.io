@@ -23,6 +23,16 @@ body a {
     -ms-transition: 0.5s all;
 }
 
+admin img-fluid:hover
+{
+    width:30%;
+}
+
+admin img-fluid
+{
+    border-image-width:100%;
+}
+
 a:hover {
     text-decoration: none;
 }
